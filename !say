@@ -1,0 +1,2 @@
+$nomention
+$replaceText[$replaceText[$message;@everyone;@,everyone;-1]@here;@,here;-1]
