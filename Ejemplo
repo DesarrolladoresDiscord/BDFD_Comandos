@@ -1,0 +1,7 @@
+$nomention
+Id del primer usuario mencionado: `$mentioned[<]`
+ID del último usuario mencionado: `$mentioned[>]`
+ID del segundo usuario mencionado: `$mentioned[2]`
+ID del quien ejecutó el comando: `$authorID`
+Nombre de usuario del usuario mencionado: `$username[$mentioned[<]]`
+Nombre del autor del comando: `$username`
